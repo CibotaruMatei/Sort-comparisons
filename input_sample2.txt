@@ -1,0 +1,14 @@
+6
+1000 1000
+100000 1000
+1000 100000
+1000000 10
+10 1000000
+1000000 1000000
+6
+countsort
+mergesort
+radixsortMSD
+radixsortMSD base 2
+radixsortLSD
+radixsortLSD base 2

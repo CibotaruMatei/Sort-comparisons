@@ -1,0 +1,20 @@
+7
+1 1
+0 0
+1000 1000
+100000 1000
+1000 100000
+1000000 10
+10 1000000
+11
+countsort
+mergesort
+radixsortMSD
+radixsortMSD base 2
+radixsortLSD
+radixsortLSD base 2
+quicksort median
+quicksort first
+quicksort last
+quicksort middle
+quicksort random
